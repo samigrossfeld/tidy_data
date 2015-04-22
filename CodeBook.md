@@ -50,7 +50,7 @@ Notes:
 ###Tidy Data Set
 
 The tidy data sets include two files created by executing run_analysis.R :
-- reduce.tidy.txt : extracted measurement of the mean and standard deviation 
+- reduce.tidy.txt : extracted 79 measurement of the mean and standard deviation 
 - reduce.tidy.mean.txt : average of each measurement grouped by subject and activity
 
 ### Column Names
