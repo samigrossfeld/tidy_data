@@ -56,7 +56,10 @@ The tidy data sets include two files created by executing run_analysis.R :
 ### Column Names
 
  id  - subject id ( integer 1:30)
- activity - activity label ( factor WALKING,WALKING_UPSTAIRS,WALKING_DOWNSTAIRS,SITTING,STANDING,LAYING) 
+
+ activity - activity label
+            ( factor :  WALKING,WALKING_UPSTAIRS,WALKING_DOWNSTAIRS,SITTING,STANDING,LAYING) 
+
  TimeBodyAccMeanX,TimeBodyAccMeanY,TimeBodyAccMeanZ,TimeBodyAccStdX,            
  TimeBodyAccStdY,TimeBodyAccStdZ,TimeGravityAccMeanX,            
  TimeGravityAccMeanY,TimeGravityAccMeanZ,TimeGravityAccStdX,             
