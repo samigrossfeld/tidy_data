@@ -5,7 +5,7 @@ The data is in [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FU
 
 R script called run_analysis.R that does the following :
  1. Download and decompress the zip into ./data/UCI HAR Dataset/ directory
- 2. Merge the train sets and train sets for the subject(subjuct_train.txt,subject_test.txt),
+ 2. Merge the train sets and test sets for the subject(subjuct_train.txt,subject_test.txt),
     the activity(y_train.txt,y_test.txt) and the measurement(X_train.txt,X_test.txt)
  3. Use the feature.txt file as an header for the measurements
  4. Map the numeric activity into descriptive label using the activity_labels.txt
